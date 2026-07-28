@@ -6,7 +6,7 @@ It bundles a 48-question bank with layered model answers, the core HR Ops framew
 
 ---
 
-## Live links
+## **▶ Live tool:**
 
 - **Playbook:** **[Intv Playbook - HR Ops]( https://coryjburk.github.io/intv-playbook-hrops_vc/)**
 - **User Manual:** **[User Manual - HR Ops]( https://coryjburk.github.io/intv-playbook-hrops_vc/manual/ )**
@@ -82,4 +82,7 @@ This is a limitation of the free browser engine, not a defect in the playbook. T
 
 ## License / use
 
-Internal teaching tool for the David Eccles School of Business MBA program.
+Internal teaching tool for the Full-Time MBA · David Eccles School of Business ·  University of Utah.
+
+Developed by Cory Burk, Senior Manager, Program Management · Full-Time MBA Program · David Eccles School of Business.
+© 2026 University of Utah, David Eccles School of Business. All rights reserved.
